@@ -1,0 +1,7 @@
+# Python
+.venv/
+venv/
+__pycache__/
+
+# Has a plain-text password in it - never commit
+hash.py
